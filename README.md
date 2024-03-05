@@ -1,0 +1,2 @@
+# stockTraderDesktop
+Python Tech Stack
